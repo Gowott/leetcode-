@@ -12,7 +12,6 @@ class Solution:
         #1 2 3 4 5
         #f   f   f
         #s s s
-asdad
         #1 2 3 4
         #f   f
         #s s
